@@ -18,8 +18,8 @@ generates a prioritized executive summary — built to demonstrate agentic AI pr
 
 ## Files
 
-- `analyzer.py` — command-line version, analyzes a hardcoded feedback list and prints results to terminal
-- `app.py` — interactive web app version (Streamlit) — paste in your own feedback and get results in-browser
+- `analyzer.py` — command line version, analyzes a hardcoded feedback list and prints results to terminal
+- `app.py` — interactive web app version (Streamlit)  paste in your own feedback and get results in-browser
 
 ## How to run
 
