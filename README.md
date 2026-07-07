@@ -7,7 +7,7 @@ generates a prioritized executive summary — built to demonstrate agentic AI pr
 
 1. Takes raw customer feedback (bug reports, praise, feature requests, etc.)
 2. Analyzes each item individually  categorizing it, scoring sentiment, and flagging urgency
-3. **Agentic step:** Reasons across *all* analyzed feedback together to generate an executive report — top themes,
+3. **Agentic step:** Reasons across *all* analyzed feedback together to generate an executive report  top themes,
 4.  most urgent issue, sentiment breakdown, and prioritized recommendations for the next sprint
 
 ## Tech stack
